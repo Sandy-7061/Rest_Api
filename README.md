@@ -20,8 +20,7 @@ This is a simple Spring Boot REST API application that allows you to manage enti
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/Sandy-7061/Rest_Api.git
     ```
 
 2. **Build the project**:
